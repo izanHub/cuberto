@@ -1,4 +1,4 @@
-.row{
+  .row{
     display: flex;
     }
     
@@ -51,9 +51,6 @@
     
     .letra1{
     color: white;
-    }
-    
-    .titulo3{
     }
     
     body{
